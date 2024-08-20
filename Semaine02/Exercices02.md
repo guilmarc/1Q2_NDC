@@ -2,7 +2,7 @@
 
 ## Structure
 
-Créez un projet nommé `Exercices01` et ajoutez-y un fichier `main.cpp`. Pour chaque question, créez une fonction nommée `questionX_X` où X est le numéro de la question. Exemple `question3_2` pour la questions 3.2. Appelez chaque fonction dans la fonction main.
+Créez un projet nommé `Exercices01` et ajoutez-y un fichier `exercices01.cpp`. Pour chaque question, créez une fonction nommée `questionX_X` où X est le numéro de la question. Exemple `question3_2` pour la questions 3.2. Appelez chaque fonction dans la fonction main.
 
 ## Question 1
 
