@@ -39,7 +39,7 @@ Rappel: si vous entrez une expression qui contient du texte, il faut mettre l'ex
 
 ## Question 2 - Trouvez l'erreur!
 
-Dans les codes fournis ci-dessous, trouver l'erreur de syntaxe qui s'est glissée dans le code. Vous aurez souvent besoin d'inspecter à l'oeil, les erreurs ne sont pas toujours clairement indiquées par le compilateur. N'HÉSITEZ PAS à écrire le tout dans Visual Studio et à expérimenter!
+Dans une fonction nommée `question2`, répondez en commentaire `//2.1 Il manque....` en indiquant l'erreur de syntaxe qui s'est glissée dans le code. Vous aurez souvent besoin d'inspecter à l'oeil, les erreurs ne sont pas toujours clairement indiquées par le compilateur. N'HÉSITEZ PAS à écrire le tout dans Visual Studio et à expérimenter!
 
 ### Question 2.1
 ```cpp
