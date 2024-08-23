@@ -94,7 +94,7 @@ int main() {
 }
 ```
 
-## Question #3 - On joue au dés!
+## Question #3 - On joue aux dés!
 L'objectif de ce dernier exercice est de vous familiariser avec la syntaxe de C++ et de trouver par vous-même l'emplacement de certains caractères spéciaux sur votre clavier.
 
 Vous devez, dans cet exercice, ré-écrire au complet le programme suivant (pas de copier-coller) et ce, de façon à réussir à le faire fonctionner dans Visual Studio : 
