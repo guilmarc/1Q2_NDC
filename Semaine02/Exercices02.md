@@ -6,7 +6,7 @@
 
 ## Question 1
 
-Pour les sous-numéros suivant (`1`), vous pouvez vous faire aider par Visual Studio et placer vos réponses sur `papier` ou dans un document `word` !
+Pour les sous-numéros suivant (`1`), vous pouvez vous faire une fonction `question1` et répondre en ajoutant simplement des `commentaires //`. Vous pouvez aussi créer une fonction pour chaque sous numéros afin de tester réellement dans Visual Studio.
 
 Donner les valeurs de chacune des variables `a`, `b`, et `c` après l'exécution des codes suivant:
 
