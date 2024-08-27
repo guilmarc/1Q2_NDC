@@ -110,7 +110,7 @@ Temperature = 89.6 fahrenheit.
 
 ## Question 5
 
-Dans une fonction nommée `question4` :
+Dans une fonction nommée `question5` :
 
 Créez un calculateur de prix total en demandant le total du prix des achats et en calculant les taxes en vigueur au Québec en date du jour (une recherche Internet sera nécessaire).
 
@@ -121,15 +121,3 @@ Le total de la vente est de : 114.75$
 
 ATTENTION: Il est possible que vous arriviez à 1 ou 2 cents près. Nous accepterons cette réponse pour l'instant. La réponse sera également acceptable (pour aujourd'hui) peut importe le nombre de décimal.
 
-## Question 6 (DÉFI)
-
-Dans une fonction nommée `question6_defi` :
-
-Présumons un ballon étant toujours plein d'eau pure mais ayant un diamètre variable.
-
-Écrire un programme qui demande à l'utilisateur le diamètre du ballon et qui retourne son poids en kg. La sortie doit être identique à l'exemple ci-dessous.
-
-```plaintext
-Entrez le diamètre du ballon : 14
-Le poids d'un ballon de 14 cm de diamètres remplis d'eau est de 1.44kg.
-```
