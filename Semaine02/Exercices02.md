@@ -29,7 +29,7 @@ a = 5;
 b = 3;
 c = a + b;
 a = 2;
-c = b - a;
+c = c + b * a;
 ```
 
 ### Question 1.3
@@ -89,7 +89,8 @@ Dans une fonction nommée `question3` :
 Écrire un algorithme simple qui affiche le produit de deux nombres réels entrés par l'utilisateurs qui donnera le résultat suivant.
 
 ```plaintext
-Le produit de 11.54 par 9.98 est de 115.1692
+Entrez les valeurs de x, suivi de y : 11.54 9.98
+Le produit de 11.54 par 9.98 est de 115.169.
 ```
 
 ## Question 4
@@ -120,4 +121,3 @@ Le total de la vente est de : 114.75$
 ```
 
 ATTENTION: Il est possible que vous arriviez à 1 ou 2 cents près. Nous accepterons cette réponse pour l'instant. La réponse sera également acceptable (pour aujourd'hui) peut importe le nombre de décimal.
-
