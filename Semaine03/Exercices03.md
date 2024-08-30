@@ -79,3 +79,36 @@ Entrez une année : 2020
 Entrez une année : 2001
 2001 est une année régulière
 ```
+
+## Question 6
+Écrire un programme qui demande à un étudiant une note d'examen en numérique et qui la converti en cote universitaire simple, sans les + et les - (A à F seulement).
+
+La cote suivra cette logique :
+1. `A` pour tout ce qui atteint 90%.
+2. `B` pour 80%.
+3. `C` pour 70%.
+4. `D` pour 60%.
+5. `E` pour le reste.
+
+```plaintext
+Entrez la note (0-100) : 100
+La cote universitaire est : A
+````
+```plaintext
+Entrez la note (0-100) : 91
+La cote universitaire est : A
+````
+```plaintext
+Entrez la note (0-100) : 79
+La cote universitaire est : C
+````
+```plaintext
+Entrez la note (0-100) : 59
+La cote universitaire est : E
+````
+
+```plaintext
+Entrez la note (0-100) : 101
+Note invalide [101]. Veuillez entrer une valeur entre 0 et 100.
+````
+

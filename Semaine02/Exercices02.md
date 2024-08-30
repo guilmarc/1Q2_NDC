@@ -106,7 +106,7 @@ Dans une fonction nommée `question4` :
 
 ```plaintext
 Entrez la température en celcius: 32
-Temperature = 89.6 fahrenheit.
+Température = 89.6 fahrenheit.
 ```
 
 ## Question 5
