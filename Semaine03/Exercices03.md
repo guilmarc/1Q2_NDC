@@ -18,8 +18,8 @@ int x = 14;
 
 ### 1.2
 ```cpp
-float m = 12.4;
-float k = 12.3;
+float m = 12.4f;
+float k = 12.3f;
 (m > k);
 (m + k <= 20);
 (37 >= 2*k + m)
@@ -36,6 +36,15 @@ char b = 'W';
 (a == true);
 ```
 
+### 1.4
+```cpp
+int d = 1;
+char c = 'W';
+(d = c);
+```
+#### 1.4.1
+Pourquoi un tel résultat de (d = c) ?
+
 ## Question 2
 Écrire un programme qui demande un nombre à l’utilisateur, puis qui calcule et affiche le carré de ce nombre.
 ```plaintext
@@ -44,6 +53,17 @@ Le carré de 3 est 9
 ```
 
 ## Question 3
+Écrire un programme qui demande une base et une puissance à l’utilisateur dans une seule instruction, puis qui calcule et affiche le résultat (`base` élévée à la `puissance`).
+```plaintext
+Entrez une base et une puissance [exemple 2 8] : 2 8
+2 à la puissance 8 = 256.
+```
+```plaintext
+Entrez une base et une puissance [exemple 2 8] : 2 32
+2 à la puissance 32 = 4.29497e+09.
+```
+
+## Question 4
 Écrire un programme qui demande la température de l’eau et qui affiche son état (`solide`, `liquide`, `gazeux`).  Ne pas répéter le texte « L’eau est dans un état » dans le code.  Il faut demeurer `DRY`.
 ```plaintext
 Entrez la température de l'eau en celcius : 99.5
@@ -58,7 +78,7 @@ Entrez la température de l'eau en celcius : 100
 L'eau est dans un état gazeux
 ```
 
-## Question 4
+## Question 5
 Écrire un programme qui demande un nombre à l’utilisateur.  Le nombre sera valide s’il est divisible par 5 mais pas par 7.  Afficher si le nombre est valide ou invalide. Il faut demeurer `DRY` ici aussi.
 ```plaintext
 Entrez un nombre : 50
@@ -69,7 +89,7 @@ Entrez un nombre : 35
 Le nombre 35 est invalide
 ```
 
-## Question 5
+## Question 6
 Écrire un programme qui demande une année à l’utilisateur et retourne si c’est une année bissextile ou pas. L’année est bissextile si elle est divisible par quatre mais pas par 100. Toutefois, les années divisibles par 400 sont bissextiles.
 ```plaintext
 Entrez une année : 2020
@@ -80,7 +100,7 @@ Entrez une année : 2001
 2001 est une année régulière
 ```
 
-## Question 6
+## Question 7
 Écrire un programme qui demande à un étudiant une note d'examen en numérique et qui la converti en cote universitaire simple, sans les + et les - (A à F seulement).
 
 La cote suivra cette logique :
