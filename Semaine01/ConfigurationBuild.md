@@ -4,7 +4,7 @@
 
 Nous avons choisi de sécuriser nos travaux dans le cours de Programmation Structurée en enregistrant les fichiers de projet dans nos OneDrive d'école. Quoique ceci soit une bonne pratique elle cause parfois quelques problématiques de synchronisation étant donné que le répertoire par défaut pour la création des fichiers compilés est également sur OneDrive.
 
-Afin d'éviter au maximum des erreurs de synchronisations, il suffit de changer l'emplacement de création des fichiers de compilation en entrant `C:\VisualStudioBuilds\$(ProjectName)` dans les propriétés `Répertoire de sortie` et `Répertoire intermédiaire` des propriétés principales de **chacun des projets**.
+Afin d'éviter au maximum des erreurs de synchronisations, il suffit de changer l'emplacement de création des fichiers de compilation en entrant `C:\VisualStudioBuilds\$(ProjectName)\` dans les propriétés `Répertoire de sortie` et `Répertoire intermédiaire` des propriétés principales de **chacun des projets**.
 
 ## Étapes par étape
 
@@ -12,7 +12,7 @@ Afin d'éviter au maximum des erreurs de synchronisations, il suffit de changer 
 
 ![IMAGE](./images/100.png)
 
-2. Copiez-collez la valeur `C:\VisualStudioBuilds\$(ProjectName)` dans les propriétés `Répertoire de sortie` et `Répertoire intermédiaire` et appuyez sur `OK`.
+2. Copiez-collez la valeur `C:\VisualStudioBuilds\$(ProjectName)\` dans les propriétés `Répertoire de sortie` et `Répertoire intermédiaire` et appuyez sur `OK`.
 
 ![IMAGE](./images/101.png)
 
