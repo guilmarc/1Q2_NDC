@@ -1,4 +1,4 @@
-# Configuration des `BUILDS`
+# Configuration des répertoires de compilation des projets dans Visual Studio
 
 ## Mise en contexte
 
