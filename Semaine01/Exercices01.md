@@ -100,3 +100,5 @@ L'objectif de ce dernier exercice est de vous familiariser avec la syntaxe de C+
 Vous devez, dans cet exercice, ré-écrire au complet le programme suivant (pas de copier-coller) et ce, de façon à réussir à le faire fonctionner dans Visual Studio : 
 
 ![À transcrire](images/program_dice.png)
+
+<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
