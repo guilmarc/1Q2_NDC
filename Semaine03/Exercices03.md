@@ -101,15 +101,24 @@ Entrez une année : 2001
 ```
 
 ## Question 7
-Écrire un programme qui demande à un étudiant une note d'examen en numérique et qui la converti en cote universitaire simple, sans les + et les - (A à F seulement).
+En utilisant `obligatoirement` un `switch`, écrire un programme qui demande à un étudiant une note d'examen en numérique et qui la converti en cote universitaire simple, sans les + et les - (A à F seulement).
 
 La cote suivra cette logique :
-1. `A` pour tout ce qui atteint 90%.
+1. `A` pour tout ce qui atteint 90% ou plus.
 2. `B` pour 80%.
 3. `C` pour 70%.
 4. `D` pour 60%.
 5. `E` pour le reste.
 
+### Indices pour la réalisation : 
+1. Rappelez-vous du comportement la division entière d'un `int`. 
+2. Il est possible de placer deux `case` en ligne sans `break` entre les deux pour réaliser le même code pour deux valeurs possibles.
+```c++
+case 10:
+case 9: //code ici;
+break;
+```
+### Voici les résultats attendus :
 ```plaintext
 Entrez la note (0-100) : 100
 La cote universitaire est : A
