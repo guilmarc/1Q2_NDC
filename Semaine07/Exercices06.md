@@ -1,5 +1,7 @@
 # Exercices 06 - Boucles do{}while()
 
+Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/14) sur les boucles `do()while{}`.
+
 ## Conditions
 
 - Tous les numéros de l'exercice 05 doivent être programmés en utilisant `obligatoirement` une boucle `do{}while()`.
@@ -89,9 +91,14 @@ Le chiffre 5 apparaît 9 fois.
 ```
 
 ## Question 6 (défi) - FPS Game (RunForestRun)
+<p align="Center"><img src="./images/1.jpg" alt="drawing" width="350"/></p>
 
 Écrire un algorithme afin de créer une mini simulation visuelle de déplacement d'un joueur dans un [jeu de type FPS](https://fr.wikipedia.org/wiki/Jeu_de_tir_%C3%A0_la_premi%C3%A8re_personne#:~:text=Le%20jeu%20de%20tir%20%C3%A0,travers%20les%20yeux%20du%20protagoniste.). Le joueur utilisera les touches `wsad` afin de se déplacer à l'éran.
 
 - Aucune restriction visuelle ici, laissé à votre créativité !
+### Créativité
+- Bien entendu, le résultat ne se fera voir qu'à la console.
+- N'hésitez à à communiquer avec l'enseignant pour des idées / trucs.
+- Le programme le plus créatif sera présenté en classe la semaine suivante.
 
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
