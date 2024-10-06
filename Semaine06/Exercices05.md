@@ -1,4 +1,4 @@
-# Exercices 05
+# Exercices 05 - Boucles for(){}
 Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/7) sur les boucles `for()`.
 
 ## Conditions
@@ -101,7 +101,7 @@ Entrer la hauteur du triangle-rectangle : 10
 **********
 ```
 
-## DÉFI Question 6 - Triangle inversé
+## Question 6 (défi) - Triangle inversé
 
 Reprendre la Question 5 mais inverser le triangle :
 
@@ -119,7 +119,7 @@ Entrer la hauteur du triangle-rectangle : 10
 **********
 ```
 
-## DÉFI Question 7 - Pyramide
+## Question 7 (défi) - Pyramide
 
 En utilisant des boucles `for()`, écrivez un programme qui permet de dessiner une pyramide en considérant l'affichage suivant :
 
