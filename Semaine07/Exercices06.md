@@ -47,7 +47,7 @@ La somme des nombres pairs de l'intervalle est de : 630
 La somme des nombres impairs l'intervalle est de : 600
 ```
 
-## Question 6 - Nombre de chiffres
+## Question 4 - Nombre de chiffres
 
 Écrire un algorithme qui demande d'abord un très grand chiffre à l'utilisateur ([jusqu'à 20 chiffres](https://en.cppreference.com/w/cpp/language/types)) et qui calcule et retourne ensuite le nombre de chiffres présent dans le nombre entré. Le programme quitte seulement l'utilisateur entre exactement 15 chiffres.
 
