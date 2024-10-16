@@ -1,5 +1,6 @@
+# Semaine 6
 # Exercices 05 - Boucles for(){}
-Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/7) sur les boucles `for()`.
+Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/7) sur les boucles `for(){}`.
 
 ## Conditions
 

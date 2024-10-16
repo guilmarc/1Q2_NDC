@@ -1,3 +1,4 @@
+# Semaine 3
 # Exercices 03
 
 ## Structure

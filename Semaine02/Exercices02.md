@@ -1,4 +1,5 @@
-# Exercices 02
+# Semaine 2
+# Exercices 2
 
 ## Structure
 

@@ -1,6 +1,7 @@
+# Semaine 1
 # Exercices (intro)
 
-# Préambule
+## Préambule
 Créez un projet nommé `Exercices01` et ajoutez-y un fichier `Exercices01.cpp`. Pour chaque question, créez une fonction nommée `questionX_X` où X est le numéro de la question. Exemple `question2_1` pour la questions 2.1.  Appelez chaque fonction dans la fonction main.
 
 #### Exemple :

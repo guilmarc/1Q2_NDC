@@ -1,3 +1,4 @@
+# Semaine 7
 # Exercices 06 - Boucles do{}while()
 
 Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/14) sur les boucles `do()while{}`.
@@ -5,7 +6,7 @@ Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?tok
 ## Conditions
 
 - Tous les numéros de l'exercice 05 doivent être programmés en utilisant `obligatoirement` une boucle `do{}while()`.
-- Les [types de variable](https://en.cppreference.com/w/cpp/language/types) doivent `obligatoirement` être plus efficaces selon le contexte.
+- Les [types de variable](https://slides.com/hkoncept/1q2-02/fullscreen?token=Wb9ixTsH#/16) doivent `obligatoirement` être plus efficaces selon le contexte.
 - Il doivent s'exécuter sans aucun avertissement dans Visual Studio et doivent être conforme à l'affichage présenté.
 
 ## Question 1 - Obtenir nombre pair
@@ -49,7 +50,7 @@ La somme des nombres impairs l'intervalle est de : 600
 
 ## Question 4 - Nombre de chiffres
 
-Écrire un algorithme qui demande d'abord un très grand chiffre à l'utilisateur ([jusqu'à 20 chiffres](https://en.cppreference.com/w/cpp/language/types)) et qui calcule et retourne ensuite le nombre de chiffres présent dans le nombre entré. Le programme quitte seulement l'utilisateur entre exactement 15 chiffres.
+Écrire un algorithme qui demande d'abord un très grand chiffre à l'utilisateur ([jusqu'à 20 chiffres](https://slides.com/hkoncept/1q2-02/fullscreen?token=Wb9ixTsH#/16)) et qui calcule et retourne ensuite le nombre de chiffres présent dans le nombre entré. Le programme quitte seulement l'utilisateur entre exactement 15 chiffres.
 
 - N.B. Pour bien réussir ce numéro vous devrez bien comprendre les différent types de variables entières.
 
