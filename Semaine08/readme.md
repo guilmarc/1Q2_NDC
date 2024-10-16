@@ -1,5 +1,7 @@
 # Semaine 8
+
 Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/24) sur les boucles `while(){}`.
+
 # Exercices 07 - Boucles while(){}
 
 ## Conditions
@@ -8,16 +10,6 @@ Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?tok
 - Les [types de variable](https://slides.com/hkoncept/1q2-02/fullscreen?token=Wb9ixTsH#/16) doivent `obligatoirement` être plus efficaces selon le contexte.
 - Il doivent s'exécuter sans aucun avertissement dans Visual Studio et doivent être conforme à l'affichage présenté.
 
-## Table des exercices
-
-1. [Lance et... compte !](#question-1---lance-et-compte)
-2. [C'est un facteur !](#question-2---cest-un-facteur)
-3. [Que la force soit avec toi !](#question-3---que-la-force-soit-avec-toi)
-4. [Hey! ces lapins](#question-4---hey-ces-lapins)
-5. [Palin Qui ?](#question-5---palin-qui)
-6. [Ça chauffe ???](#question-6---ça-chauffe)
-7. [<img src="./images/vs.png" alt="drawing" width="20"/> <span style="color:#6E64C3">Ça chauffe encore plus ???</span>](#question-7-défi---ça-chauffe-encore-plus)
-8. [<img src="./images/vs.png" alt="drawing" width="20"/><img src="./images/vs.png" alt="drawing" width="20"/><img src="./images/vs.png" alt="drawing" width="20"/><span style="color:#6E64C3"> Vraiment on brûle !!!</span>](#question-8-défi---vraiment-on-brûle)
 
 ## <span style="color:#4DAAFB"> Question 1 - Lance et... compte !</span>
 
