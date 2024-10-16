@@ -1,5 +1,5 @@
 # Semaine 8
-
+Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/24) sur les boucles `while(){}`.
 # Exercices 07 - Boucles while(){}
 
 ## Conditions

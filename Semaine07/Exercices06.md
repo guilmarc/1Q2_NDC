@@ -1,7 +1,8 @@
 # Semaine 7
-# Exercices 06 - Boucles do{}while()
-
 Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/14) sur les boucles `do()while{}`.
+# Exercices 6 - Boucles do{}while()
+
+
 
 ## Conditions
 
