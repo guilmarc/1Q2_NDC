@@ -7,8 +7,9 @@ Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?tok
 ## Conditions
 
 - Tous les numéros de l'exercice 07 doivent être programmés en utilisant `obligatoirement` une boucle `while(){}`.
-- Les [types de variable](https://slides.com/hkoncept/1q2-02/fullscreen?token=Wb9ixTsH#/16) doivent `obligatoirement` être plus efficaces selon le contexte.
+- Les [types de variable](https://slides.com/hkoncept/1q2-02/fullscreen?token=Wb9ixTsH#/16) doivent `obligatoirement` être strictement sélectionnées.
 - Il doivent s'exécuter sans aucun avertissement dans Visual Studio et doivent être conforme à l'affichage présenté.
+- Il est `interdit` d'utlise `continue`, `break` et `return`.
 
 
 ## <span style="color:#4DAAFB"> Question 1 - Lance et... compte !</span>
