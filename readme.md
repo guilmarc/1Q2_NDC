@@ -6,4 +6,5 @@
 4. [Semaine 5 - Switch et mathématiques](/Semaine05/Exercices04.md)
 5. [Semaine 6 - Boucles for(){}](/Semaine06/Exercices05.md)
 6. [Semaine 7 - Boucles do{}while()](/Semaine07/Exercices06.md)
-[Semaine 8 - Boucles while(){}](/Semaine08/readme.md)
+7. [Semaine 8 - Boucles while(){}](/Semaine08/readme.md)
+8. [Travail Pratique - theShawiDerbi()](/TravauxPratiques/TP2-theShawiDerby/readme.md)
