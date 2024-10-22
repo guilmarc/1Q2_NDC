@@ -55,7 +55,7 @@ Le dernier joueur (#5) reçoit 12 points.
 
 ## <span style="color:#4DAAFB">Question 4 - Hey! ces lapins.</span>
 
-Écrire un algorithme qui demande un emplacement référence dans la [suite de Fobinacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci) et qui affiche ensuite la suite jusqu'à cet emplacement.
+Écrire un algorithme qui demande un emplacement référence dans la [suite de Fibonacci](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci) et qui affiche ensuite la suite jusqu'à cet emplacement.
 
 ```plaintext
 Entrez le nombre de termes de la suite de Fibonacci [3 à 100] : 10
