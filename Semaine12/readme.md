@@ -13,6 +13,8 @@ Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-07/fullscreen?tok
 Compléter l'algorithme suivant en créant les fonctions manquantes :
 
 ```cpp
+#include <iomanip>
+
 void question01() {
   float montant = fournirMontantValide();
   float total = calculerMontantTotal(montant);
