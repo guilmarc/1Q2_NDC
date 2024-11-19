@@ -115,7 +115,7 @@ Compléter l'algorithme suivant en créant la fonction manquante. Ici on simule 
 
 ```cpp
 void question05() {
-	string hotdog = "pain";
+	string hotdog = "pain saucisse";
 	string ingredient;
 	cout << "Entrez les ingrédients pour garnir le hot-dog (terminer avec 'servir') : ";
 	do {
@@ -123,7 +123,7 @@ void question05() {
 		if (ingredient != "servir") {
 			garnirHotDog(hotdog, ingredient);
 		}
-	} while (ingredient != "fini");
+	} while (ingredient != "servir");
 	cout << "Le hot-dog est prêt : " << hotdog << endl;
 }
 ```
