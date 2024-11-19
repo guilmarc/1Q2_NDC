@@ -1,6 +1,6 @@
 # Semaine 12
 
-Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/24) sur les boucles `while(){}`.
+Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-07/fullscreen?token=KCwX_T8Q) sur les boucles `while(){}`.
 
 # Exercices 09 - Les Fonctions
 
