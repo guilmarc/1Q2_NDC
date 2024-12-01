@@ -18,6 +18,7 @@ Vous avez présenté votre application de Derby à votre client, l'entreprise �
 
 ## Présentation de 🕹️GameZone Inc.
 
+https://github.com/user-attachments/assets/cb7e5b93-279e-4494-a04f-9a7786aa3121
 
 
 > ATTENTION: Ne pas tenir compte du vacillement de l'écran lors de l'avancemenet d'un cheval. Il existe deux méthodes d'affichage à l'écran et comme je vous demande la plus simple, ce sintillement est normal et acceptable (limitation de la console).
