@@ -1,5 +1,6 @@
-# TP3 - 🏇The Shawi Derby Extended🏇 (8%)
-# Présenté par 🕹️GameZone Inc.
+
+<h1 align="Center">🏇 The Shawi Derby Extended 🏇</h1>
+<h2 align="Center">Présenté par 🕹️GameZone Inc.</h2>
 <p align="Center"><img src="./images/derby.png" alt="drawing" width="550"/></p>
 
 ## Introduction
@@ -29,6 +30,6 @@ Vous avez présenté votre application de Derby à votre client, l'entreprise �
 5. Retourner le tout au client avant la date de remise en format `.zip` en prennant bien soin de compresser l'ensemble du projet incluant le fichier de solution sinon 🕹️GameZone Inc. refusera simplement le projet et appliquera 10% de pénalité par dépôt.
 
 ## Spécifications générales
-1. Avoir du plaisir à programmer ce projet car il représente essentiellement le type de raisonnement que vous aurez besoin d'avoir tout au long de votre carrière de programmeur(euse) 
+1. Avoir du plaisir à programmer ce projet car il représente essentiellement le type de raisonnement que vous aurez besoin d'avoir tout au long de votre carrière de programmeur(euse). 
 
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
