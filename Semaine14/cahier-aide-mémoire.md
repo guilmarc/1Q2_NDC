@@ -2,6 +2,10 @@
  <img src="./images/logo.png" alt="drawing" width="250"/></p>
 
 # Aide mémoire - Épreuve terminale
+- Guide aide mémoire que vous pourrez apporter à l'épreuve terminale et ainsi compléter avec les notes prises en classe.
+- Ce guide sera le seul document admis en examen.
+- Les cellulaires devrons être fermés complètement.
+- Aucune visite à la salle de bain ne sera permise alors prévoyez-y un tour avant.
 
 <div style="page-break-after: always;"></div>
 
@@ -46,6 +50,7 @@ do {
   - Si la condition est vraie (true), le bloc d'instructions est exécuté.
   - Si la condition est fausse (false), la boucle s'arrête.
 
+<div style="page-break-after: always;"></div>
 
 # Tableaux
 
@@ -88,6 +93,8 @@ void accelererDecelerer() {
 }
 ```
 
+<div style="page-break-after: always;"></div>
+
 # Formatter l'affichage
 
 - `fixed`: s'assure de pouvoir fixer le nombre de décimal désirées.
@@ -128,6 +135,7 @@ Note #5 :  95.2
     return ... ; //si nécessaire
 }
 ```
+<div style="page-break-after: always;"></div>
 
 ## Fonctions avec paramètres 
 
@@ -219,6 +227,7 @@ void ecrirePlanetesCSV() {
 	}
 }
 ```
+<div style="page-break-after: always;"></div>
 
 ## Lecture
 
@@ -242,3 +251,7 @@ ATENTION: La fonction `file.get()` permet de retirer un caractère de la chaîne
 
  <p align="Center">
  <img src="./images/end.png" alt="drawing" width="150"/></p>
+
+ <div style="page-break-after: always;"></div>
+
+ # Espace de notes complémentaires
