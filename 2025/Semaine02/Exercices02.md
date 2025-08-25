@@ -90,7 +90,7 @@ Entrez les valeurs de x, suivi de y : 11.54 9.98
 Le produit de 11.54 par 9.98 est de 115.169.
 ```
 
-## Question 4
+## 🌡️ Question 04
 
 Écrire le code pour convertir une température de celcius en fahrenheit.
 
@@ -104,7 +104,7 @@ Entrez la température en celcius: 32
 Température = 89.6 fahrenheit.
 ```
 
-## Question 5
+## 🧮 Question 05
 
 Créez un calculateur de prix total en demandant le total du prix des achats et en calculant les taxes en vigueur au Québec en date du jour (une recherche Internet sera nécessaire).
 
