@@ -111,7 +111,7 @@ Entrez un nombre : 35
 Le nombre 35 est invalide
 ```
 
-## 📅 Question 6
+## 📅 Question 06
 
 Écrire un programme qui demande une année à l’utilisateur et retourne si c’est une année bissextile ou pas. L’année est bissextile si elle est divisible par quatre mais pas par 100. Toutefois, les années divisibles par 400 sont bissextiles.
 
@@ -125,7 +125,7 @@ Entrez une année : 2001
 2001 est une année régulière
 ```
 
-## 🎓 Question 7
+## 🎓 Question 07
 
 En utilisant `obligatoirement` un `switch`, écrire un programme qui demande à un étudiant une note d'examen en numérique et qui la converti en cote universitaire simple, sans les + et les - (A à F seulement).
 
