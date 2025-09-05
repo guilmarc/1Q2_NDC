@@ -37,7 +37,7 @@ Calcul en cours de la vitesse à atteindre sur
 la planète terre à 2500 mètres d'altitude...
 ************************************************
 
-Capitaine Patenaude, mettez les gaz à 40270km/h !
+Capitaine Patenaude, mettez les gaz à 40255km/h !
 ```
 
 ### Décollage de Jupiter à 40000m d'altitude
@@ -57,7 +57,7 @@ Calcul en cours de la vitesse à atteindre sur
 la planète jupiter à 40000 mètres d'altitude...
 ************************************************
 
-Capitaine Patenaude, mettez les gaz à 214140km/h !
+Capitaine Patenaude, mettez les gaz à 216772km/h !
 ```
 
 ### Gestion des erreurs
