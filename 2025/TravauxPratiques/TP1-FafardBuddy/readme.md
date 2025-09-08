@@ -100,5 +100,10 @@ $$
 | 7 | Uranus    | 8.68 × 10^25                | 50 724                    |
 | 8 | Neptune   | 1.02 × 10^26                | 49 244                    |
 
+
+## Défis
+1. Valider l'ensemble des entrées de données à l'aide des expressions régulières (RegEx).
+2. Faire en sorte que le choix de planète de départ ne nécassite pas d'utiliser la touche `enter` pour valider. 
+3. Permettre à l'utilisateur d'entrer une donnée à nouveau après l'entrée d'une donnée erronée.
 <hr>
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
