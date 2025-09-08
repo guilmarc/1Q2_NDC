@@ -1,7 +1,7 @@
 <p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
-# 🏋🏻‍♂️ Exercices 04 - Les conditionnelles avancées
+# 🏋🏻‍♂️ Exercices 04 - La mathématique
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
@@ -74,4 +74,4 @@ Entrez le diamètre du ballon (en cm) : 10
 Le poid du ballon plein d'eau est de 0.62 kg.
 ```
 
-<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
+<p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
