@@ -1,12 +1,11 @@
-# Semaine 6
-# Exercices 05 - Boucles for(){}
-Lien vers les [notes de cours](https://slides.com/hkoncept/1q2-05/fullscreen?token=6ntlmUIx#/7) sur les boucles `for(){}`.
+<p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
+<h5 align="Center">1Q2 - Programmation structurée</h5>
 
-## Conditions
+# 🏋🏻‍♂️ Exercices 04 - Les boucles __for(){}__
 
-N.B. Tous les numéros doivent s'exécuter sans aucun avertissement dans Visual Studio et doivent être conforme à l'affichage présenté.
+#### Voir la [structure à utiliser.](../_includes/_rules.md)
 
-## Question 1 - Table de multiplication
+## ✖️ Question 1 - Table de multiplication
 
 Écrire un programme qui demande un multiplicateur et multiplicande, et qui ensuite écrit la table de multiplication de ce multiplicande jusqu’au nombre multiplicateur :
 
@@ -23,7 +22,7 @@ Entrez le nombre de multiplicateurs : 8
 7 x 8 = 56
 ```
 
-## Question 2 - Factorielle
+## ❗ Question 2 - Factorielle
 
 Écrire un programme qui demande un nombre à l'utilisateur et qui calcule la `factorielle` de ce nombre.
 
@@ -37,7 +36,7 @@ Entrez un nombre [1 à 10] : 10
 La factorielle de 10 est 3628800.
 ```
 
-## Question 3 - Affichage ASCII
+## 🇦 Question 3 - Affichage ASCII
 
 En utilisant une seule boucle `for()`, écrire un programme qui affiche une partie de la table des caractères ASCII à partir du caractère 120 jusqu'au dernier caractère de la table.
 
@@ -54,7 +53,7 @@ Votre affichage doit être identique à celui-ci :
 130='   131=ƒ   132="   133=.   134=┼   135=╬   136=^   137=%   138=S   139=<
 140=O   141=?   142=Z   143=?   144=?   145='   146='   147="   148="   149=
 150=-   151=-   152=~   153=T   154=s   155=>   156=o   157=?   158=z   159=Y
-160=    161=¡   162=¢   163=£   164=¤   165=¥   166=¦   167=§   168=¨   169=©
+160=    161=¡   162=¢   163=£   164=¤   165=¥   166=¦   167=§   168=¨   169=©
 170=ª   171=«   172=¬   173=­    174=®   175=¯   176=°   177=±   178=²   179=³
 180=´   181=µ   182=¶   183=·   184=¸   185=¹   186=º   187=»   188=¼   189=½
 190=¾   191=¿   192=À   193=Á   194=Â   195=Ã   196=Ä   197=Å   198=Æ   199=Ç
@@ -70,7 +69,7 @@ Votre affichage doit être identique à celui-ci :
 
 - N.B. Pour ce numéro et les prochains numéros, nous présumerons que les caractères affichées à l'écran sont carré (et non rectangulaire comme en vérité) pour des raisons de simplicité. Nous considérons donc un 5 caractères par 5 caractères comme un carré.
 
-## Question 4 - Rectangle
+## 🎨 Question 4 - Rectangle
 
 En utilisant une boucle for() dans une boucle for(), écrivez un programme qui permet de dessiner un rectangle (ou un carré) avec le nombre d'étoiles entrés en paramètres comme présenté dans l'affichage suivant :
 
@@ -84,7 +83,7 @@ Entrer la hauteur du rectangle : 5
 ********************
 ```
 
-## Question 5 - Triangle
+## 🎨 Question 5 - Triangle
 
 En utilisant une boucle `for()` dans une boucle `for()`, écrivez un programme qui permet de dessiner un triangle-rectangle dont les deux côtés de l'angle droit sont de même longueur en considérant l'affichage suivant :
 
@@ -102,7 +101,7 @@ Entrer la hauteur du triangle-rectangle : 10
 **********
 ```
 
-## Question 6 (défi) - Triangle inversé
+## 🎨 Question 6 (défi) - Triangle inversé
 
 Reprendre la Question 5 mais inverser le triangle :
 
@@ -120,7 +119,7 @@ Entrer la hauteur du triangle-rectangle : 10
 **********
 ```
 
-## Question 7 (défi) - Pyramide
+## 🎨 Question 7 (défi) - Pyramide
 
 En utilisant des boucles `for()`, écrivez un programme qui permet de dessiner une pyramide en considérant l'affichage suivant :
 
@@ -133,4 +132,4 @@ Entrer la hauteur de la pyramide : 5
 *********
 ```
 
-<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

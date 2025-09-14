@@ -114,3 +114,6 @@ Le total de la vente est de : 114.75$
 ```
 
 ATTENTION: Il est possible que vous arriviez à 1 ou 2 cents près. Nous accepterons cette réponse pour l'instant. La réponse sera également acceptable (pour aujourd'hui) peut importe le nombre de décimal.
+
+
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

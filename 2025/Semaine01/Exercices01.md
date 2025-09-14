@@ -92,4 +92,4 @@ Vous devez, dans cet exercice, ré-écrire au complet le programme suivant (pas 
 
 ![À transcrire](images/program_dice.png)
 
-<p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

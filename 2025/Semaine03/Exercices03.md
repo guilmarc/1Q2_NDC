@@ -174,3 +174,5 @@ La cote universitaire est : E
 Entrez la note (0-100) : 101
 Note invalide [101]. Veuillez entrer une valeur entre 0 et 100.
 ```
+
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

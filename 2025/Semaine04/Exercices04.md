@@ -74,4 +74,4 @@ Entrez le diamètre du ballon (en cm) : 10
 Le poid du ballon plein d'eau est de 0.62 kg.
 ```
 
-<p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
