@@ -1,7 +1,7 @@
 <p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
-# 🏋🏻‍♂️ Exercices 04 - Les boucles __for(){}__
+# 🏋🏻‍♂️ Exercices 05 - Les boucles __for(){}__
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 

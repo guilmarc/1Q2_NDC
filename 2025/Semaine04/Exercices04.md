@@ -65,13 +65,13 @@ Le poid du ballon plein d'eau est de 8.38 kgs.
 ```plaintext
 Entrer le poids du ballon vide (en kg) : 0.2
 Entrez le diamètre du ballon (en cm) : 12
-Le poid du ballon plein d'eau est de 1.1 kgs.
+Le poids du ballon plein d'eau est de 1.1 kgs.
 ```
 
 ```plaintext
 Entrer le poids du ballon vide (en kg) : 0.1
 Entrez le diamètre du ballon (en cm) : 10
-Le poid du ballon plein d'eau est de 0.62 kg.
+Le poids du ballon plein d'eau est de 0.62 kg.
 ```
 
 <hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
