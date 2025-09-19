@@ -1,7 +1,7 @@
 <p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
-# 🏋🏻‍♂️ Exercices 06 - Les boucles `do{}while()`
+# 🏋🏻‍♂️ Exercices 06 - Les boucles `while(){}`
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
