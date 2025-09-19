@@ -101,4 +101,4 @@ Le chiffre 5 apparaît 9 fois.
 - N'hésitez à à communiquer avec l'enseignant pour des idées / trucs.
 - Le programme le plus créatif sera présenté en classe la semaine suivante.
 
-<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
+<hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
