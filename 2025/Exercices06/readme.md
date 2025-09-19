@@ -5,7 +5,7 @@
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
-## Question 1 - Obtenir nombre pair
+## 🔢 Question 1 - Obtenir nombre pair
 
 Écrire un algorithme afin d'obtenir un nombre pair de l'utilisateur.
 
@@ -20,7 +20,7 @@ Entrez un nombre pair : 2
 Merci, vous avez entré un nombre pair !
 ```
 
-## Question 2 - Obtenir un nombre entre intervalles
+## [...] Question 2 - Obtenir un nombre entre intervalles
 
 Écrire un algorithme afin d'obtenir de l'utilisateur un nombre entre une intervalle donnée par lui. Affichez `Trop petit` si le nombre entré est plus petit que `min` et `Trop grand` si le nombre entré est plus grand que `max`.
 
@@ -34,7 +34,7 @@ Trop petit. Essayez encore...
 Merci, vous avez entré 25!
 ```
 
-## Question 3 - Somme nombres pairs et impairs
+## 🔢 Question 3 - Somme nombres pairs et impairs
 
 Écrire un algorithme qui effectue la somme des nombres pairs ainsi que des nombres impairs d'une intervalle entrée par l'utilisateur conformément à l'affichage suivant :
 
@@ -44,7 +44,7 @@ La somme des nombres pairs de l'intervalle est de : 630
 La somme des nombres impairs l'intervalle est de : 600
 ```
 
-## Question 4 - Nombre de chiffres
+## 🔢 Question 4 - Nombre de chiffres
 
 Écrire un algorithme qui demande d'abord un très grand chiffre à l'utilisateur et qui calcule et retourne ensuite le nombre de chiffres présent dans le nombre entré. Le programme quitte seulement l'utilisateur entre exactement 15 chiffres.
 
@@ -68,7 +68,7 @@ Entrez un grand nombre entier : 398984857384573
 Le nombre a 15 chiffres.
 ```
 
-## Question 5 - Décompte d'un chiffres
+## 🧮 Question 5 - Décompte d'un chiffres
 
 Écrire un algorithme qui demande d'abord un chiffre de référence à l'utilisateur jusqu'à ce qu'il reçoive soit réellement un chiffre et qui demande ensuite `x` fois un grand nombre à l'utilisateur jusqu'à-ce dernier entre 0.
 
@@ -87,7 +87,7 @@ Entrez un grand nombre entier #6 [Exemple 10984] : 0
 Le chiffre 5 apparaît 9 fois.
 ```
 
-## Question 6 (défi) - FPS Game (RunForestRun)
+## 🏃 Question 6 (défi) - FPS Game (RunForestRun)
 
 <p align="Center"><img src="./images/1.jpg" alt="drawing" width="350"/></p>
 
