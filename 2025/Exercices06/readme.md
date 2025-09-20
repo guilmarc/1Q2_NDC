@@ -1,4 +1,4 @@
-<p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
+<p align="Center"><img src="../_includes/logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
 # 🏋🏻‍♂️ Exercices 06 - Les boucles `do{}while()`
@@ -100,5 +100,7 @@ Le chiffre 5 apparaît 9 fois.
 - Bien entendu, le résultat ne se fera voir qu'à la console.
 - N'hésitez à à communiquer avec l'enseignant pour des idées / trucs.
 - Le programme le plus créatif sera présenté en classe la semaine suivante.
+  
+> N.B. Informez l'enseignant si vous avez fait un ou des défis.
 
 <hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

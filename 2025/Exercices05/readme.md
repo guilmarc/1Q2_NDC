@@ -1,7 +1,7 @@
-<p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
+<p align="Center"><img src="../_includes/logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
-# 🏋🏻‍♂️ Exercices 05 - Les boucles __for(){}__
+# 🏋🏻‍♂️ Exercices 05 - Les boucles `for(){}`
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
@@ -131,5 +131,7 @@ Entrer la hauteur de la pyramide : 5
  *******
 *********
 ```
+
+> N.B. Informez l'enseignant si vous avez fait un ou des défis.
 
 <hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>

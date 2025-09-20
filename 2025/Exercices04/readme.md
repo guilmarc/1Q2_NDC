@@ -5,7 +5,7 @@
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
-## Question 01 - Hypothénuse
+## ◣ Question 01 - Hypothénuse
 
 Programmer une fonction C++ permettant de calculer l'hypothénuse d'un triangle-rectangle arrondis à deux décimales près.
 
@@ -15,7 +15,7 @@ Entrez la longueur du deuxième côté: 15
 L'hypoténuse du triangle est: 18.03
 ```
 
-## Question 02 - Appelation
+## 👨 Question 02 - Appelation
 
 Programmer une fonction C++ permettant d'afficher une appelation différente selon l'âge de la personne :
 
@@ -52,7 +52,7 @@ Veuillez entrer votre âge (1 à 120) : 130
 Age invalide (130).
 ```
 
-## Question 03 - Poid Ballon
+## 🏀 Question 03 - Poid Ballon
 
 Écrire une fonction C++ permettant de calculer le poid total d'un ballon remplis d'eau pure et qui affiche, au singulier ou au pluriel, le poid total.
 

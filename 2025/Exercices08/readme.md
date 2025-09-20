@@ -5,7 +5,7 @@
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 
-## Question 1 - J'ai de la mémoire !
+## 📝 Question 1 - J'ai de la mémoire !
 Programmez un algorithme simple qui demande 5 notes à l'utilisateur et qui affiche ensuite les 5 notes entrées en mémoire de cette façon :
 ```plaintext
 Entrez la note #1 : 90
@@ -16,7 +16,7 @@ Entrez la note #5 : 89
 Les notes entrés sont : [90, 100, 89, 76, 89]
 ```
 
-## Question 2 - Big Big Big Winner !
+## 🏆 Question 2 - Big Big Big Winner !
 Programmez un algorithme qui demande un nombre paramétrable (en code dans une constante NOTES_COUNT) de notes d'examens en validant que l'entrée de l'utilisateur soit entre 0 et 100.  Continuez l'algorithme en détectant la plus haute note entrée ainsi que le numéro de l'étudiant qui a eu cette note :
 ```plaintext
 Entrez la note #1/5 : 101
@@ -39,7 +39,7 @@ Recherche de la plus haute note, un instant svp...
 La plus haute note est 90.  Obtenue par l'étudiant #1.
 ```
 
-## Question 3 - Jouons aux dés
+## 🎲 Question 3 - Jouons aux dés
 Nous voulons ici simuler une quantité paramétrable (THROWS_COUNT) de lancers d'un dé possédant un nombre paramétrable de faces (FACES_COUNT) et, par la suite, afficher la quantité de chacune des faces obtenus.
 
 ```plaintext
@@ -90,7 +90,7 @@ Voici les résultats pour 100000 lancers d'un dés de 6 faces.
 *   6 : 16674 *
 ***************
 ```
-## Question 4 - Les voyelles à Isabelle
+## 🅰️ Question 4 - Les voyelles à Isabelle
 Programmez un calculateur de voyelles à qui on donnera un texte dans une constante et qui sortira le nombre de chacunes des voyelles.
 
 N.B. Une variable de type `string` est l'équivalent d'un tableau de `char` !
@@ -112,7 +112,7 @@ N.B. Une variable de type `string` est l'équivalent d'un tableau de `char` !
 **************
 ```
 
-## <img src="./images/vs.png" alt="drawing" width="20"/> <span style="color:#6E64C3">Question 5 (défi) - Jouons aux dés optimisé</span>
+## 🎲🎲 Question 5 (défi) - Jouons aux dés optimisé
 Optimiser le code de la question #3 en s'assurant de n'obtenir qu'un maximum de `17` ligne de code incluant les `{}`.
 
 <hr><p align="Center"><img src="../_includes/end.png" alt="drawing" width="150"/></p>
