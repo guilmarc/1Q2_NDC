@@ -1,7 +1,7 @@
 <p align="Center"><img src="../_includes//logo.jpg" alt="drawing" width="100"/></p>
 <h5 align="Center">1Q2 - Programmation structurée</h5>
 
-# 🏋🏻‍♂️ Exercices 08 - Les taleaux
+# 🏋🏻‍♂️ Exercices 08 - Les tableaux
 
 #### Voir la [structure à utiliser.](../_includes/_rules.md)
 

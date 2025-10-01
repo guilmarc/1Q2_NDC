@@ -76,7 +76,19 @@ Palindrome !
 Entrez un nombre : 0
 ```
 
-## 🔥 Question 6 - Ça chauffe ???
+## 📬 Question 6 - Code Postal
+
+Écrire un algorithme qui guidera l'utilisateur lors de la saisie d'un code postal :
+
+- Ne pas permettre d'entrer autre chose qu'une lettre minuscule ou majuscule à l'emplacement alphabétique.
+- Ne pas permettre d'entrer autre chose qu'un chiffre à l'emplacement nnumérique.
+- Générer automatiquement l'espace dans le code postal affiché lors de la saisie.
+```plaintext
+Veuillez entrer le code postal [exemple G1D 1D9] : G9T 3R9
+Code postal G9T 3R9 enregistré!
+```
+
+## 🔥 Question 7 - Ça chauffe ???
 
 Écrire un algorithme qui se choisi un nombre mystère au hasard entre un et NOMBRE_MAX (constante paramétrable dans le code) et qui demande à répétition un nombre à l'utilisateur jusqu'à-ce qu'il trouve le nombre mystère. L'algorithme assiste l'utilisateur en disant :
 
@@ -116,19 +128,23 @@ Bravo, vous avez trouvé le nombre 347 en 8 essais !
 Jouer une autre partie ? [(o)ui ou (n)on]
 ```
 
-## 🔥🔥 Question 7 (Défi) - Ça chauffe encore plus
+## 🔥🔥 Question 8 (Défi) - Ça chauffe encore plus
 
 Reprendre le numéro 6 et ajouter-y :
 
 - La notion de nombre d'essaie maximum (paramétrable).
 - Un algorithme de calcul d'un score (utilisez votre créativité).
 
-## 🔥🔥🔥 Question 8 (Défi) - Vraiment on brûle !!!
+## 🔥🔥🔥 Question 9 (Défi) - Vraiment on brûle !!!
 
 Reprendre le numéro 7 et ajoutez-y :
 
 - La possibilité à l'aide de menus de paramétrer le nombre maximum (NOMBRE_MAX).
 - La possibilités d'aller consulter la liste des 5 meilleurs scores et des noms de joueurs associés.
+
+## 📬📬 Question 10 (Défi) - Code Postal Extended
+Reprennez la solution de la question 6 en ajoutant la possibilité de revenir en arrière avec la touche `backspace`.
+
 
 > N.B. Informez l'enseignant si vous avez fait un ou des défis.
 
