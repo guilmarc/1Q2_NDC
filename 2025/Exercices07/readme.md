@@ -128,9 +128,9 @@ Bravo, vous avez trouvé le nombre 347 en 8 essais !
 Jouer une autre partie ? [(o)ui ou (n)on]
 ```
 
-## 🔥🔥 Question 8 (Défi) - Ça chauffe encore plus
+## 🔥🔥 Question 8 - Ça chauffe encore plus
 
-Reprendre le numéro 6 et ajouter-y :
+Reprendre la question 7 et ajouter-y :
 
 - La notion de nombre d'essaie maximum (paramétrable).
 - Un algorithme de calcul d'un score (utilisez votre créativité).
