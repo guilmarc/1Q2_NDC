@@ -81,6 +81,7 @@ Entrez un nombre : 0
 Écrire un algorithme qui guidera l'utilisateur lors de la saisie d'un code postal :
 
 - Ne pas permettre d'entrer autre chose qu'une lettre minuscule ou majuscule à l'emplacement alphabétique.
+  -   Informez-vous sur la fonction `toupper()`.
 - Ne pas permettre d'entrer autre chose qu'un chiffre à l'emplacement nnumérique.
 - Générer automatiquement l'espace dans le code postal affiché lors de la saisie.
 ```plaintext
