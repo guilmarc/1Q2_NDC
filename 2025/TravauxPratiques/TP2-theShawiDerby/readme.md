@@ -93,6 +93,11 @@ const string derbies[5] = {
 ![SHAWI_DERBY](./images/shawi-derby.gif)
 > ATTENTION: Ne pas tenir compte du vacillement de l'écran lors de l'avancemenet d'un cheval.  Il existe deux méthodes d'affichage à l'écran et comme je vous demande la plus simple, ce sintillement est normal et acceptable (limitation de la console).
 
+## Critère à respecter
+- Il est **interdit** d'utiliser des vecteurs pour ce travail pratique, seuls les tableaux statiques seront permis sous peine de rejet de la remise.
+- Tout ce que vous codez doit être présent à un endroit ou à un autre dans les notes de cours ou sur Omnivox.
+  - Il est **interdit** d'utiliser des fonctions C++ autres que celles présentées en classe.
+
 ## Grille d'auto correction
 
 | #   | Critère                                                            | Pts |
@@ -104,9 +109,8 @@ const string derbies[5] = {
 | 05  | Noms de variables significatifs |  0.5   |
 | 06  | Qualité, efficacité et clarté du code|  0.5  |
 | 07  | Affichage identique  |  0.5     |
-|     |
-|     | TOTAL                                                              | 5     |
-|     | 
+|  P   | Présence de fonctions interdites (par fonction) | -1 |
+|     | **TOTAL**                                                              | **5** |
 
 
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
