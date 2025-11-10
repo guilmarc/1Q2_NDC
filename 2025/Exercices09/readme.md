@@ -150,7 +150,7 @@ Vous devez ici être en mesure de sortir un tirage de logo 6/49 avec des numéro
 
 Vous devez obligatoirement utiliser :
 
-1. Une fonction `question06()` pour le code de base.
+1. Une fonction `question07()` pour le code de base.
 2. Une fonction `isExists()` qui retourne si oui ou non un nombre a été tiré.
 3. Une fonction `sortNumbers()` qui prend un tableau de 6 nombres en entrée et qui retourne un tableau de 6 nombres triés en ordre croissant.
 4. Une fonction `printTicket()` qui affiche le billet.
